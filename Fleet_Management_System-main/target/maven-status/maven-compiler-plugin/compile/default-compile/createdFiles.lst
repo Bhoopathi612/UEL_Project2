@@ -1,0 +1,5 @@
+activities\impl\VehicleRegistrationActivities.class
+workflow\VehicleRegistrationWorkflow.class
+activities\impl\VehicleRegistrationActivitiesImpl.class
+org\example\Main.class
+workflow\VehicleRegistrationWorkflowImpl.class
